@@ -34,7 +34,7 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
         let cell = UITableViewCell(style: UITableViewCellStyle.Subtitle, reuseIdentifier: "Cell")
         
         cell.textLabel?.text = String(sliderValue * (indexPath.row + 1))
-        cell.detailTextLabel?.text = String(indexPath.row + 1
+        cell.detailTextLabel?.text = String(indexPath.row + 1)
         
         return cell
     }

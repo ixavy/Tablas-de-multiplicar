@@ -12,6 +12,8 @@
 		E1980B221CFDAD71009BE677 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E1980B201CFDAD71009BE677 /* Main.storyboard */; };
 		E1980B241CFDAD71009BE677 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E1980B231CFDAD71009BE677 /* Assets.xcassets */; };
 		E1980B271CFDAD71009BE677 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E1980B251CFDAD71009BE677 /* LaunchScreen.storyboard */; };
+		E1980B2F1CFDBF41009BE677 /* Swift_logo.svg.png in Resources */ = {isa = PBXBuildFile; fileRef = E1980B2E1CFDBF41009BE677 /* Swift_logo.svg.png */; };
+		E1980B311CFDBFF6009BE677 /* hola-cocoa.png in Resources */ = {isa = PBXBuildFile; fileRef = E1980B301CFDBFF6009BE677 /* hola-cocoa.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		E1980B231CFDAD71009BE677 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E1980B261CFDAD71009BE677 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E1980B281CFDAD71009BE677 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E1980B2E1CFDBF41009BE677 /* Swift_logo.svg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Swift_logo.svg.png; sourceTree = "<group>"; };
+		E1980B301CFDBFF6009BE677 /* hola-cocoa.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "hola-cocoa.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +61,8 @@
 				E1980B1C1CFDAD71009BE677 /* AppDelegate.swift */,
 				E1980B1E1CFDAD71009BE677 /* ViewController.swift */,
 				E1980B201CFDAD71009BE677 /* Main.storyboard */,
+				E1980B2E1CFDBF41009BE677 /* Swift_logo.svg.png */,
+				E1980B301CFDBFF6009BE677 /* hola-cocoa.png */,
 				E1980B231CFDAD71009BE677 /* Assets.xcassets */,
 				E1980B251CFDAD71009BE677 /* LaunchScreen.storyboard */,
 				E1980B281CFDAD71009BE677 /* Info.plist */,
@@ -122,7 +128,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E1980B2F1CFDBF41009BE677 /* Swift_logo.svg.png in Resources */,
 				E1980B271CFDAD71009BE677 /* LaunchScreen.storyboard in Resources */,
+				E1980B311CFDBFF6009BE677 /* hola-cocoa.png in Resources */,
 				E1980B241CFDAD71009BE677 /* Assets.xcassets in Resources */,
 				E1980B221CFDAD71009BE677 /* Main.storyboard in Resources */,
 			);
